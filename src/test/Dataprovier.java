@@ -11,6 +11,7 @@ public class Dataprovier {
 		System.out.println(username);
 		System.out.println(password);
 		System.out.println("from asian zone");
+		System.out.println("from american zone");
 	}
 	@DataProvider
 	public Object[][] getData()
