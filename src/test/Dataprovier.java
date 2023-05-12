@@ -10,6 +10,7 @@ public class Dataprovier {
 		System.out.println("login page");
 		System.out.println(username);
 		System.out.println(password);
+		System.out.println("from asian zone");
 	}
 	@DataProvider
 	public Object[][] getData()
@@ -22,6 +23,8 @@ public class Dataprovier {
 		data[2][0]="thirdusername";
 		data[2][1]="thirdpassword";
 		return data;
+		
+		
 	}
 
 }
