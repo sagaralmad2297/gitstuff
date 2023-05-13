@@ -20,6 +20,19 @@ public class test1 {
 		
 		
 	}
+    @Test 
+  	public void life1()
+  	{
+  		System.out.println("fuck");
+  		
+  		
+  	}
+	public void life2()
+  	{
+  		System.out.println("fuck");
+  		
+  		
+  	}
 			@Test
 	public void done()
 	{

@@ -11,5 +11,11 @@ public void paraa(String url)
 	System.out.println("parameter");
 	System.out.println(url);
 }
+	@Test
+	public void paraa1(String url)
+	{
+		System.out.println("parameter");
+		System.out.println(url);
+	}
 
 }
