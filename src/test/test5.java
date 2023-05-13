@@ -17,5 +17,19 @@ public void paraa(String url)
 		System.out.println("parameter");
 		System.out.println(url);
 	}
+	@Test
+	public void paraa2(String url)
+	{
+		System.out.println("parameter");
+		System.out.println(url);
+	}
+	@Test
+	public void paraa3(String url)
+	{
+		System.out.println("parameter");
+		System.out.println(url);
+	}
+
+
 
 }
